@@ -5,22 +5,22 @@ Our full-stack web application called OvenPizza Application. It is a web-based a
 
     Link(Deploy on Heroku): https://oven-pizza.herokuapp.com/
     
-# Contributors
+### Contributors
 - Pancheeva Jantarasuriyakul - 6213305
 - Thanatuch Lertritsirikul – 6315215
 
-# How To Get Start
+### How To Get Start
 
-## Install
+### Install
 Clone the project and run `npm install` to install dependencies
     
     $ npm ../
     $ npm install
 
-## Run the App
+### Run the App
     $ npm start
     
-# Functionality & Deployment
+### Functionality & Deployment
 The function according to the following:
 can confirm their menu that order and then checkout. 
 - Choose Menu : Users can choose a menu and customize their pizza toppings by themselves.
@@ -31,7 +31,7 @@ can confirm their menu that order and then checkout.
 - Edit/Delete: can be edited/deleted information as adress , phone number and status by admin.
 - Status: user's status is updated to indicate which process the delivery has reached by admin.
 
-# Tech Stack
+### Tech Stack
 using MERN according to the following:
 - MongoDB
 - Express
