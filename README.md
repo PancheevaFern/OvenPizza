@@ -27,7 +27,7 @@ can confirm their menu that order and then checkout.
 - Add to cart: Users can add pizza menu and topping in their cart.
 - Checkout: It can caculate amount and total amount. Users can confirm their menu that order and then checkout. 
 - Adress:users need to put their information as to their phone number and address for delivery. It's required specific location such as house number, road, subdistrict, district, province, and postal code.
-- Track ordering(Backend): Show user's information as phone number, pizza menu ,topping, price, quantity ,address , status and date.
+- Track ordering(Backend): Show user's ordering information as phone number, pizza menu ,topping, price, quantity ,address , status and date.
 - Edit/Delete: can be edited/deleted information as adress , phone number and status by admin.
 - Status: user's status is updated to indicate which process the delivery has reached by admin.
 
