@@ -49,4 +49,8 @@ using MERN according to the following:
 -----------------------------------
     
     Link to Github repository(back-end): https://github.com/tarlrsk/OvenPizza-backend.git
+ 
+-----------------------------------
+    
+    Link to Github repository: https://github.com/tarlrsk/OvenPizza
 
